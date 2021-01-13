@@ -12,4 +12,4 @@ Whenever you commit to your repository, GitHub Pages will run [Jekyll](https://j
 
 ## Page
 
-You can click here to preview a [page example](page);
+You can click here to preview [page example](page);
