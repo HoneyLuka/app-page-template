@@ -1,6 +1,13 @@
+# do not modify
 theme: jekyll-theme-cayman
+
+# app name
 title: 'app-page-tempalte'
+
+# app short dsecription
 description: 'A github page template for app'
+
+# umcomment if you need google analytics
 # google_analytics: G-NWQY9CVPF7
 
 show_ios_download_btn: true
